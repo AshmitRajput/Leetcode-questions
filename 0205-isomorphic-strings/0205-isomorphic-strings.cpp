@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-    vector<int> s_code(128);
-    vector<int> t_code(128);
+    vector<int> s_code(128,0);
+    vector<int> t_code(128,0);
 
     for (int i=0;i<s.length();++i){
       if(s_code[s[i]]!=t_code[t[i]])
