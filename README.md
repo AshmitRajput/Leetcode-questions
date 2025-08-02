@@ -10,6 +10,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -54,6 +55,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
 ## Sorting
 |  |
