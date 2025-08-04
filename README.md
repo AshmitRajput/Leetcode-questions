@@ -22,6 +22,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
@@ -50,6 +51,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
@@ -61,6 +63,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
