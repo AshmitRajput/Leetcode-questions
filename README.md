@@ -8,6 +8,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0035-search-insert-position) |
@@ -42,6 +43,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
