@@ -13,6 +13,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0033-search-in-rotated-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -104,5 +105,10 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
