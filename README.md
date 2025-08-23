@@ -22,6 +22,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
