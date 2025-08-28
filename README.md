@@ -58,6 +58,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0009-palindrome-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
