@@ -23,6 +23,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
@@ -139,11 +141,13 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Quickselect
 |  |
 | ------- |
