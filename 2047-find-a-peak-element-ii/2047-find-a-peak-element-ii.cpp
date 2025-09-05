@@ -1,3 +1,67 @@
+//First approach-greedy hill climbing but in an efficient manner, similar to binary search.
+//it finds larger neighbour and jumps, and when count for all 4 neighbours to be smaller
+// is satisfied, ans is returned
+class Solution {
+public:
+    vector<int> findPeakGrid(vector<vector<int>>& mat) {
+        int ind1=0,ind2=0,row=mat.size(),col=mat[0].size();
+        int count=0;
+        while(count<4){
+            int ele=mat[ind1][ind2];
+            if(ind2+1<col){
+                if(mat[ind1][ind2+1]<ele){
+                    count++;
+                    if(count>=4) break;
+                }
+                else{
+                    ind2=ind2+1;
+                    count=0;
+                    ele=mat[ind1][ind2];
+                }
+            }
+            else count++;
+            if(ind2-1>=0){
+                if(mat[ind1][ind2-1]<ele){
+                    count++;
+                    if(count>=4) break;
+                }
+                else{
+                    ind2=ind2-1;
+                    count=0;
+                    ele=mat[ind1][ind2];
+                }
+            }
+            else count++;
+            if(ind1+1<row){
+                if(mat[ind1+1][ind2]<ele){
+                    count++;
+                    if(count>=4) break;
+                }
+                else{
+                    ind1=ind1+1;
+                    count=0;
+                    ele=mat[ind1][ind2];
+                }
+            }
+            else count++;
+            if(ind1-1>=0){
+                if(mat[ind1-1][ind2]<ele){
+                    count++;
+                    if(count>=4) break;
+                }
+                else{
+                    ind1=ind1-1;
+                    count=0;
+                    ele=mat[ind1][ind2];
+                }
+            }
+            else count++;
+        }
+        return {ind1,ind2};
+    }
+};
+
+
 class Solution {
 public:
     int MaxIndex(vector<vector<int>>& mat, int n,int m, int col){
