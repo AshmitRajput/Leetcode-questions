@@ -170,4 +170,8 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
