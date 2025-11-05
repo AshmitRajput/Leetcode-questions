@@ -74,6 +74,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0009-palindrome-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2050-count-good-numbers) |
 ## Greedy
@@ -173,6 +174,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -181,5 +183,6 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
