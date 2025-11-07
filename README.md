@@ -47,6 +47,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -73,6 +74,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
@@ -90,6 +92,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
