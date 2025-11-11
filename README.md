@@ -7,6 +7,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0018-4sum) |
@@ -67,6 +68,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0031-next-permutation) |
@@ -88,6 +90,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
