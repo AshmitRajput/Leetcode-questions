@@ -33,6 +33,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
@@ -73,6 +74,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0155-min-stack](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -118,6 +120,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 ## Binary Search
@@ -245,4 +248,8 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
