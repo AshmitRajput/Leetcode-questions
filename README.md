@@ -79,6 +79,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
@@ -150,6 +151,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0146-lru-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -277,6 +279,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
