@@ -84,6 +84,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -160,6 +161,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -288,6 +290,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0966-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Design
 |  |
 | ------- |
