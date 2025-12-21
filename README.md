@@ -77,6 +77,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -153,6 +154,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0013-roman-to-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -289,6 +291,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
