@@ -17,6 +17,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0035-search-insert-position](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
@@ -65,6 +66,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
@@ -144,6 +146,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
