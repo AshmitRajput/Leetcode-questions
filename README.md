@@ -69,6 +69,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
 ## String
 |  |
@@ -87,6 +88,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -105,6 +107,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -146,6 +149,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
