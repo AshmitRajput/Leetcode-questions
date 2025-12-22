@@ -28,6 +28,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0084-largest-rectangle-in-histogram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -148,6 +149,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0011-container-with-most-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
