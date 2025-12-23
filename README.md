@@ -22,6 +22,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
