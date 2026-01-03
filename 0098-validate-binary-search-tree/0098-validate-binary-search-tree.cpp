@@ -12,12 +12,50 @@
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-        if(root->left==NULL&&root->right==NULL) return true;
-        return bst(root,LLONG_MIN,LLONG_MAX);
-    }
-    bool bst(TreeNode* root,long long minval,long long maxval){
-        if(root==NULL) return true;
-        if(root->val<=minval||root->val>=maxval) return false;
-        return bst(root->left,minval,root->val)&&bst(root->right,root->val,maxval);
+         bool b=true;
+        bool first=true;
+        int prev;
+        TreeNode* curr=root;
+        while(curr){
+            if(curr->left==NULL){
+                if(first){
+                    prev=curr->val;
+                    first=false;
+                }
+                else{
+                    if(curr->val<=prev){
+                        b=false;
+                        
+                    }
+                    else{
+                        prev=curr->val;
+                    }
+                }
+                curr=curr->right;
+            }else{
+                TreeNode* tmp=curr->left;
+                while(tmp->right && tmp->right!=curr){
+                    tmp=tmp->right;
+                }
+                if(tmp->right==NULL){
+                    tmp->right=curr;
+                    curr=curr->left;
+                }
+                else{
+                    if(curr->val<=prev){
+                        b=false;
+                        
+                    }
+                    else{
+                        prev=curr->val;
+                    }
+                    tmp->right=NULL;
+                    curr=curr->right;
+                }
+            }
+        }
+        if(b)
+        return true;
+        return false;
     }
 };
