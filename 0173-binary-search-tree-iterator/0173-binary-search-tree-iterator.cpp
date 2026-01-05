@@ -16,6 +16,7 @@ public:
         pushall(root);
     }
     int next(){
+        if(!hasNext()) return -1;
         TreeNode* curr=st.top();
         st.pop();
         pushall(curr->right);
