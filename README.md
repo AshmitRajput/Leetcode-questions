@@ -311,6 +311,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
@@ -318,6 +319,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2050-count-good-numbers) |
 ## Backtracking
