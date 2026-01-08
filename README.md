@@ -141,6 +141,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0042-trapping-rain-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
@@ -190,6 +191,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -313,6 +315,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
