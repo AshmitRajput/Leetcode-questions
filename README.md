@@ -138,6 +138,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0011-container-with-most-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -316,6 +317,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
