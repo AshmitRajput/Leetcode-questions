@@ -16,6 +16,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
@@ -353,6 +354,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0078-subsets) |
 ## Enumeration
 |  |
