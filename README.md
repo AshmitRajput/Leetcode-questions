@@ -17,6 +17,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0035-search-insert-position](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
@@ -355,6 +356,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0078-subsets) |
 ## Enumeration
 |  |
