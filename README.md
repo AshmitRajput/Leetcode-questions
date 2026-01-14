@@ -16,6 +16,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0042-trapping-rain-water) |
@@ -199,6 +200,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -289,6 +291,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
@@ -360,6 +363,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0051-n-queens) |
