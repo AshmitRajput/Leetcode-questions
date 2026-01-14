@@ -79,6 +79,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
@@ -94,6 +95,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0020-valid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -361,6 +363,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0040-combination-sum-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 ## Enumeration
 |  |
 | ------- |
