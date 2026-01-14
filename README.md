@@ -76,6 +76,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
@@ -95,6 +96,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0013-roman-to-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
@@ -363,6 +365,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0040-combination-sum-ii) |
