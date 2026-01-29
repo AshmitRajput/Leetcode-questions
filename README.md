@@ -119,6 +119,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
