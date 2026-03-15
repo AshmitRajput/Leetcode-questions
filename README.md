@@ -69,6 +69,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0860-lemonade-change) |
@@ -120,6 +121,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
@@ -234,6 +236,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
