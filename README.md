@@ -94,6 +94,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2104-sum-of-subarray-ranges](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -365,6 +367,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2047-find-a-peak-element-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Divide and Conquer
 |  |
 | ------- |
