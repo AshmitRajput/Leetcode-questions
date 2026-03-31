@@ -52,6 +52,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -384,6 +385,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0079-word-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
@@ -599,6 +601,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0144-binary-tree-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -658,6 +661,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0127-word-ladder](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
@@ -716,6 +720,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [2573-find-the-string-with-lcp](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
