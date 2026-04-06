@@ -78,6 +78,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -305,6 +306,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -383,6 +385,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2751-robot-collisions) |
