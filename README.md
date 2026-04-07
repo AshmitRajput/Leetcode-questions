@@ -386,6 +386,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0657-robot-return-to-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2751-robot-collisions) |
@@ -537,6 +538,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
 | ------- |
