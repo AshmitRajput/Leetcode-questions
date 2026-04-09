@@ -151,6 +151,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0931-minimum-falling-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2573-find-the-string-with-lcp](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -779,14 +780,17 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
