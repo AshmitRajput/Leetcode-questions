@@ -154,6 +154,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0931-minimum-falling-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -787,6 +788,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -799,5 +801,6 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
