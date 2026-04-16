@@ -113,6 +113,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -330,6 +331,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0992-subarrays-with-k-different-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
@@ -357,6 +359,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1646-kth-missing-positive-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1646-kth-missing-positive-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2047-find-a-peak-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2047-find-a-peak-element-ii) |
+| [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
