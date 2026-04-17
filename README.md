@@ -180,6 +180,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0126-word-ladder-ii) |
