@@ -105,6 +105,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2047-find-a-peak-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2047-find-a-peak-element-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2463-minimum-total-distance-traveled](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2463-minimum-total-distance-traveled) |
@@ -302,6 +303,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0860-lemonade-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
 ## Trie
 |  |
