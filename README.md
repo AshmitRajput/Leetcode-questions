@@ -117,6 +117,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -287,6 +288,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2050-count-good-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
@@ -380,6 +382,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2047-find-a-peak-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2047-find-a-peak-element-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
@@ -402,6 +405,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2751-robot-collisions) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
@@ -839,4 +843,8 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
