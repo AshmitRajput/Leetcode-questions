@@ -167,6 +167,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
@@ -294,6 +295,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
