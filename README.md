@@ -28,6 +28,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
@@ -455,6 +456,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
@@ -471,6 +473,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0036-valid-sudoku](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
