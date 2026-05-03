@@ -200,6 +200,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0038-count-and-say](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0079-word-search) |
