@@ -105,6 +105,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1631-path-with-minimum-effort](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1646-kth-missing-positive-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -387,6 +388,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0992-subarrays-with-k-different-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -554,6 +556,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1004-max-consecutive-ones-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
