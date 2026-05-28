@@ -137,6 +137,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3093-longest-common-suffix-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -256,6 +257,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2573-find-the-string-with-lcp](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
@@ -371,6 +373,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0139-word-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3093-longest-common-suffix-queries) |
 ## Hash Table
 |  |
 | ------- |
