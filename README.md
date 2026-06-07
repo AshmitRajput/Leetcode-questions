@@ -123,6 +123,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2126-destroying-asteroids) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2463-minimum-total-distance-traveled) |
@@ -426,6 +427,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1345-jump-game-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -784,6 +786,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -857,6 +860,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
