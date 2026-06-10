@@ -158,6 +158,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3660-jump-game-ix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -389,6 +390,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Trie
 |  |
 | ------- |
@@ -520,6 +522,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -948,6 +951,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Union-Find
 |  |
 | ------- |
