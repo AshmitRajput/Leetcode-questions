@@ -237,6 +237,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0022-generate-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0065-valid-number) |
@@ -346,6 +347,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0012-integer-to-roman](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0062-unique-paths) |
@@ -548,6 +550,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
