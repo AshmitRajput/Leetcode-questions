@@ -112,6 +112,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -398,6 +399,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0860-lemonade-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2126-destroying-asteroids) |
@@ -517,6 +519,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1340-jump-game-v](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1022,4 +1025,8 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3161-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
