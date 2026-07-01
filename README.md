@@ -141,6 +141,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2751-robot-collisions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -505,6 +506,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2047-find-a-peak-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2047-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
@@ -552,6 +554,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
@@ -625,6 +628,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2047-find-a-peak-element-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -954,6 +958,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search Tree
 |  |
@@ -1015,6 +1020,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1559-detect-cycles-in-2d-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2573-find-the-string-with-lcp](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
