@@ -100,6 +100,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1288-remove-covered-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -466,6 +467,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -538,6 +540,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
