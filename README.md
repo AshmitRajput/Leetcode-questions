@@ -760,6 +760,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
