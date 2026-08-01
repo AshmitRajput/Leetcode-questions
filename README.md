@@ -71,6 +71,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0416-partition-equal-subset-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
@@ -209,6 +210,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
@@ -385,6 +387,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -757,6 +760,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0206-reverse-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -1101,4 +1105,8 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
