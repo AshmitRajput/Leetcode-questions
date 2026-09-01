@@ -163,6 +163,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -499,6 +500,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -671,6 +673,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3225-maximum-score-from-grid-operations](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Divide and Conquer
@@ -728,6 +731,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -1005,6 +1009,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1559-detect-cycles-in-2d-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search Tree
 |  |
