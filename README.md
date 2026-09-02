@@ -196,6 +196,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0064-minimum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -785,6 +786,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0079-word-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0216-combination-sum-iii) |
@@ -868,6 +870,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0099-recover-binary-search-tree) |
@@ -947,6 +950,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0099-recover-binary-search-tree) |
@@ -1020,6 +1024,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0099-recover-binary-search-tree) |
