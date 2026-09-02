@@ -196,6 +196,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0064-minimum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -386,6 +387,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0062-unique-paths](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
@@ -866,6 +868,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0100-same-tree) |
@@ -944,6 +947,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0100-same-tree) |
@@ -1016,6 +1020,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
