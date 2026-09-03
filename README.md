@@ -64,6 +64,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
@@ -706,6 +707,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -837,6 +839,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0225-implement-stack-using-queues](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
