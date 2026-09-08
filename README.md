@@ -53,6 +53,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0198-house-robber) |
@@ -574,6 +575,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0056-merge-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -616,6 +618,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
@@ -1162,4 +1165,12 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
