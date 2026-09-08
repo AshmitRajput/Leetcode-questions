@@ -432,6 +432,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
