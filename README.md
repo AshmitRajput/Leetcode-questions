@@ -162,6 +162,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -526,6 +527,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -805,6 +807,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0234-palindrome-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -832,6 +835,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
