@@ -794,6 +794,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0086-partition-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
@@ -945,6 +946,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0112-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -983,6 +985,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0112-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1036,6 +1039,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0112-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1068,6 +1072,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0130-surrounded-regions) |
