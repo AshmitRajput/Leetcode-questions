@@ -19,13 +19,10 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        if (!root || !root->left) return root; // base case: leaf or null
-
-        // Connect the two children of this node
+        if (!root || !root->left) return root;
         root->left->next = root->right;
 
-        // Connect right child to the next subtree's left child (if it exists)
-        if (root->next) {
+        if (root->next){
             root->right->next = root->next->left;
         }
 
