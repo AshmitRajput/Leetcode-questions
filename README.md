@@ -424,6 +424,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
@@ -1202,6 +1203,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Indexed Tree
 |  |
