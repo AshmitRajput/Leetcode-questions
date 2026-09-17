@@ -201,6 +201,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0010-regular-expression-matching](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0062-unique-paths) |
@@ -285,6 +286,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0065-valid-number) |
@@ -463,6 +465,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -834,6 +837,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0021-merge-two-sorted-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0206-reverse-linked-list) |
