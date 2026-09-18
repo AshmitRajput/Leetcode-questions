@@ -427,6 +427,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0062-unique-paths](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
@@ -793,6 +794,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0029-divide-two-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0190-reverse-bits) |
@@ -866,6 +868,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0077-combinations](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
