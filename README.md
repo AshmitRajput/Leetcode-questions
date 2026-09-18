@@ -10,6 +10,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0011-container-with-most-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -376,6 +377,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0005-longest-palindromic-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -605,6 +607,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0056-merge-intervals) |
