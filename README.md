@@ -210,6 +210,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0063-unique-paths-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -293,6 +294,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0058-length-of-last-word](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0091-decode-ways) |
