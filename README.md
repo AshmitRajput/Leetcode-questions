@@ -310,6 +310,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0139-word-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -437,6 +438,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0070-climbing-stairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
@@ -536,6 +538,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0141-linked-list-cycle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
