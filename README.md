@@ -225,6 +225,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -309,6 +310,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0126-word-ladder-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0165-compare-version-numbers) |
