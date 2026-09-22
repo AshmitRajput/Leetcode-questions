@@ -172,6 +172,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3483-unique-3-digit-even-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3524-find-x-value-of-array-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -465,6 +466,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3524-find-x-value-of-array-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1206,6 +1208,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3161-block-placement-queries) |
+| [3525-find-x-value-of-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
