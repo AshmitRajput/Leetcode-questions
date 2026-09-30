@@ -341,6 +341,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1078-remove-outermost-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -395,6 +396,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1078-remove-outermost-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1318,6 +1320,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
