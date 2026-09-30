@@ -327,6 +327,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0166-fraction-to-recurring-decimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -567,6 +568,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0142-linked-list-cycle-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -847,6 +849,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0089-gray-code](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
@@ -955,6 +958,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -1329,4 +1333,20 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
