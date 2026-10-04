@@ -56,6 +56,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0136-single-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -386,6 +387,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0143-reorder-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
@@ -468,6 +470,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0070-climbing-stairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
