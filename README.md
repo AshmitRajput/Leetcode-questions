@@ -337,6 +337,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
@@ -584,6 +585,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
@@ -681,6 +683,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
@@ -869,6 +872,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0191-number-of-1-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1009-complement-of-base-10-integer) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
