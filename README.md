@@ -343,6 +343,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -398,6 +399,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0503-next-greater-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1343,6 +1345,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0022-generate-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
