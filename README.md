@@ -84,6 +84,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -758,6 +759,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
