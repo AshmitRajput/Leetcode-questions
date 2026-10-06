@@ -75,6 +75,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
@@ -248,6 +249,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
@@ -658,6 +660,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -1415,4 +1418,8 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0398-random-pick-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
