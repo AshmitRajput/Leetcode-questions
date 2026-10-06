@@ -902,6 +902,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1009-complement-of-base-10-integer) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -984,6 +985,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0131-palindrome-partitioning](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
