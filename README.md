@@ -96,6 +96,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
@@ -614,6 +615,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
@@ -715,6 +717,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
@@ -762,6 +765,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2833-furthest-point-from-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1022,6 +1026,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
