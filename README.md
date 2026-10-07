@@ -347,6 +347,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
@@ -1000,6 +1001,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0131-palindrome-partitioning](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
@@ -1254,6 +1256,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0207-course-schedule](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
