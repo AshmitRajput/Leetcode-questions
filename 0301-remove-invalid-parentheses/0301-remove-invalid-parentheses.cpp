@@ -1,47 +1,34 @@
 class Solution {
 public:
     vector<string> removeInvalidParentheses(string s) {
-        vector<string> res;
-        forward(s, res, 0, 0);
-
-        return res;
+        vector<string> ans;
+        remove(s, ans, 0, 0, {'(', ')'});
+        return ans;
     }
 
 private:
-    void forward(string s, auto& res, int li, int lj) {
-        int bal = 0;
+    void remove(string s, vector<string>& ans, int i, int j, vector<char> p) {
+        int count = 0;
 
-        for (int i = li; i < s.length(); i++) {
-            bal += (s[i] == '(') - (s[i] == ')');
+        for (int k = i; k < s.size(); k++) {
+            if (s[k] == p[0]) count++;
+            if (s[k] == p[1]) count--;
 
-            if (bal >= 0) continue;
-
-            for (int j = lj; j <= i; j++)
-                if (s[j] == ')' && (j == lj || s[j - 1] != ')'))
-                    forward(s.substr(0, j) + s.substr(j + 1), res, i, j);
-
-            return;
+            if (count < 0) {
+                for (int x = j; x <= k; x++) {
+                    if (s[x] == p[1] && (x == j || s[x - 1] != p[1])) {
+                        remove(s.substr(0, x) + s.substr(x + 1), ans, k, x, p);
+                    }
+                }
+                return;
+            }
         }
 
-        backward(s, res, s.length() - 1, s.length() - 1);
-    }
+        string rev(s.rbegin(), s.rend());
 
-    void backward(string s, auto& res, int ri, int rj) {
-        int bal = 0;
-
-        for (int i = ri; i >= 0; i--) {
-            bal += (s[i] == ')') - (s[i] == '(');
-
-            if (bal >= 0) continue;
-
-            for (int j = rj; j >= i; j--)
-                if (s[j] == '(' && (j == rj || s[j + 1] != '('))
-                    backward(s.substr(0, j) + s.substr(j + 1), res, i - 1,
-                             j - 1);
-
-            return;
-        }
-
-        res.push_back(s);
+        if (p[0] == '(')
+            remove(rev, ans, 0, 0, {')', '('});
+        else
+            ans.push_back(rev);
     }
 };
