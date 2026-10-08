@@ -358,6 +358,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0796-rotate-string) |
@@ -1134,6 +1135,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0543-diameter-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1179,6 +1181,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0547-number-of-provinces](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
@@ -1233,6 +1236,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0404-sum-of-left-leaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
