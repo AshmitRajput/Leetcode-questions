@@ -269,6 +269,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
+| [0629-k-inverse-pairs-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0629-k-inverse-pairs-array) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
