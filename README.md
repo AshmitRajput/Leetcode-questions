@@ -101,6 +101,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0605-can-place-flowers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -978,6 +979,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0234-palindrome-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1076,6 +1078,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0232-implement-queue-using-stacks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
@@ -1085,6 +1088,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0225-implement-stack-using-queues](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
