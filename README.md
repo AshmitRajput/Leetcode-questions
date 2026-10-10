@@ -1164,6 +1164,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1212,6 +1213,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
@@ -1269,6 +1271,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0543-diameter-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1307,6 +1310,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
