@@ -180,6 +180,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2784-check-if-array-is-good](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -678,6 +679,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1403,6 +1405,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3161-block-placement-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1456,6 +1459,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3161-block-placement-queries) |
 ## Counting Sort
 |  |
