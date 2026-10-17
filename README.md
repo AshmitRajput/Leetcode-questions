@@ -107,6 +107,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0643-maximum-average-subarray-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
@@ -379,6 +380,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0796-rotate-string) |
@@ -625,6 +627,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0140-word-break-ii) |
+| [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3093-longest-common-suffix-queries) |
@@ -665,6 +668,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
