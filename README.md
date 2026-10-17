@@ -282,6 +282,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0629-k-inverse-pairs-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -538,6 +539,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0592-fraction-addition-and-subtraction](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
