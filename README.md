@@ -535,6 +535,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0400-nth-digit](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0598-range-addition-ii) |
