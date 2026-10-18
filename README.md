@@ -104,6 +104,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0621-task-scheduler](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -284,6 +285,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0629-k-inverse-pairs-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0629-k-inverse-pairs-array) |
+| [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0650-2-keys-keyboard) |
@@ -994,6 +996,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0397-integer-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1009-complement-of-base-10-integer) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1082,6 +1085,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0301-remove-invalid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [1096-brace-expansion-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
@@ -1418,6 +1422,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0139-word-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0397-integer-replacement) |
+| [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
@@ -1434,6 +1439,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Bitmask DP
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Segment Tree
 |  |
@@ -1580,4 +1586,12 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
