@@ -106,6 +106,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
+| [0641-design-circular-deque](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1043,6 +1044,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0237-delete-node-in-a-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1144,6 +1146,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
@@ -1154,6 +1157,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0232-implement-queue-using-stacks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0649-dota2-senate) |
 ## Monotonic Stack
 |  |
