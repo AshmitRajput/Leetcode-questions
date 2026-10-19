@@ -165,6 +165,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2047-find-a-peak-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2047-find-a-peak-element-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -755,6 +756,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2047-find-a-peak-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -806,6 +808,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1840-maximum-building-height](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2463-minimum-total-distance-traveled) |
