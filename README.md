@@ -104,6 +104,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0621-task-scheduler](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0645-set-mismatch) |
@@ -452,6 +453,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0503-next-greater-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0636-exclusive-time-of-functions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0856-score-of-parentheses) |
