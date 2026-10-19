@@ -561,6 +561,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0640-solve-the-equation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0667-beautiful-arrangement-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0788-rotated-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -750,6 +751,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0611-valid-triangle-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
