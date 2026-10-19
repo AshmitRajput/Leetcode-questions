@@ -390,6 +390,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0639-decode-ways-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0639-decode-ways-ii) |
+| [0640-solve-the-equation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0649-dota2-senate) |
@@ -556,6 +557,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0592-fraction-addition-and-subtraction](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0640-solve-the-equation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0836-rectangle-overlap) |
@@ -872,6 +874,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
@@ -1605,4 +1608,8 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
