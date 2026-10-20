@@ -112,6 +112,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0667-beautiful-arrangement-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0667-beautiful-arrangement-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0679-24-game) |
@@ -628,6 +629,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0621-task-scheduler](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0649-dota2-senate) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -702,6 +704,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0645-set-mismatch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -857,6 +860,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0506-relative-ranks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
