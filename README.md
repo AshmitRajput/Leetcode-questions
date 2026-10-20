@@ -239,6 +239,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -604,6 +605,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3871-count-commas-in-range-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -840,6 +842,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1121,6 +1124,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
