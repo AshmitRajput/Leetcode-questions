@@ -115,6 +115,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0659-split-array-into-consecutive-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0665-non-decreasing-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0667-beautiful-arrangement-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0695-max-area-of-island) |
@@ -302,6 +303,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0647-palindromic-substrings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0664-strange-printer) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1495,6 +1497,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -1553,6 +1556,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3161-block-placement-queries) |
@@ -1622,6 +1626,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Euclidean Algorithm
 |  |
 | ------- |
