@@ -408,6 +408,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0649-dota2-senate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0664-strange-printer) |
+| [0676-implement-magic-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0676-implement-magic-dictionary) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0722-remove-comments](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0722-remove-comments) |
@@ -669,6 +670,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0139-word-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0140-word-break-ii) |
 | [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0676-implement-magic-dictionary) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3093-longest-common-suffix-queries) |
@@ -712,6 +714,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0676-implement-magic-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0676-implement-magic-dictionary) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -1184,6 +1187,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0641-design-circular-deque) |
+| [0676-implement-magic-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0676-implement-magic-dictionary) |
 | [0901-online-stock-span](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
@@ -1320,6 +1324,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0637-average-of-levels-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0676-implement-magic-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
