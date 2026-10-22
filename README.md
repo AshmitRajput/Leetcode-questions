@@ -1329,6 +1329,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0676-implement-magic-dictionary) |
+| [0684-redundant-connection](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
@@ -1430,6 +1431,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0637-average-of-levels-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
@@ -1523,6 +1525,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0130-surrounded-regions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1020-number-of-enclaves) |
@@ -1538,6 +1541,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0207-course-schedule](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
