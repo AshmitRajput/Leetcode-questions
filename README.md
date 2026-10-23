@@ -581,6 +581,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0650-2-keys-keyboard](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0836-rectangle-overlap) |
@@ -640,6 +641,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0670-maximum-swap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
