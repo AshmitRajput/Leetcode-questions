@@ -103,6 +103,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0611-valid-triangle-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
@@ -641,6 +642,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0605-can-place-flowers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0659-split-array-into-consecutive-subsequences) |
