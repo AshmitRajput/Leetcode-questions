@@ -396,6 +396,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
@@ -476,6 +477,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0225-implement-stack-using-queues](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0388-longest-absolute-file-path](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
@@ -1332,6 +1334,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0388-longest-absolute-file-path](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
