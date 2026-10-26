@@ -1,17 +1,11 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        unordered_map<char,int>mpp;
-        for(auto c:s){
-            mpp[c]++;
+        int dict[26] = {0};
+        for (int i=0;i<s.length();i++) dict[s[i]-'a']++;
+        for (int i=0;i<s.length();i++){
+            if (dict[s[i]-'a']==1) return i;
         }
-        int ans=-1;
-        for(int i=0;i<s.size();i++){
-            if(mpp[s[i]]==1){
-                ans=i;
-                return ans;
-            }
-        }
-        return ans;
+        return -1;
     }
 };
