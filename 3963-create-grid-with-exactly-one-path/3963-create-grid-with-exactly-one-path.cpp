@@ -7,7 +7,7 @@ public:
         res[r][c] = '.';
         
         while (r < m - 1 || c < n - 1) {
-            if (r < m - 1 && (c == n - 1 || abs((r + 1) * (n - 1) - c * (m - 1)) <= abs(r * (n - 1) - (c + 1) * (m - 1))))
+            if (r < m - 1 && (c == n - 1 || abs((r + 1) * (n - 1) - c * (m - 1)) <= abs(r * (n - 1) - (c + 1) * (m ))))
                 r++;
             else
                 c++;
