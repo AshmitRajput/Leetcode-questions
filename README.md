@@ -461,6 +461,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3838-weighted-word-mapping](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -897,6 +898,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2333-minimum-sum-of-squared-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1584,6 +1586,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1597,6 +1600,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Geometry
 |  |
 | ------- |
