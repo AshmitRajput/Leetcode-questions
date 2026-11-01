@@ -79,6 +79,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
@@ -537,6 +538,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0647-palindromic-substrings) |
@@ -723,6 +725,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -795,6 +798,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -844,6 +848,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
