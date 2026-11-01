@@ -583,6 +583,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0172-factorial-trailing-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0398-random-pick-index) |
@@ -1632,6 +1633,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 ## Radix Sort
 |  |
@@ -1720,4 +1722,20 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0640-solve-the-equation) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
