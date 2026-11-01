@@ -296,6 +296,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
@@ -1075,6 +1076,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0191-number-of-1-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0401-binary-watch) |
