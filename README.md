@@ -87,6 +87,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0495-teemo-attacking) |
@@ -591,6 +592,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0400-nth-digit](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -855,6 +857,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0611-valid-triangle-number) |
