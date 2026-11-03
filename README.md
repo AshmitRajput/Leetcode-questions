@@ -242,6 +242,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3689-maximum-total-subarray-value-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -634,6 +635,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
