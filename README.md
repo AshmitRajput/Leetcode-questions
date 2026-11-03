@@ -302,6 +302,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0338-counting-bits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
@@ -592,6 +593,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0398-random-pick-index) |
@@ -1648,6 +1650,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 ## Radix Sort
 |  |
@@ -1744,6 +1747,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Nim Game
 |  |
 | ------- |
