@@ -609,6 +609,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
@@ -836,6 +837,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0400-nth-digit) |
