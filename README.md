@@ -306,6 +306,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0377-combination-sum-iv) |
@@ -601,6 +602,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
+| [0343-integer-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
