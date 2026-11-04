@@ -223,6 +223,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -353,6 +354,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -635,6 +637,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3312-sorted-gcd-pair-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -792,6 +795,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3312-sorted-gcd-pair-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -930,6 +934,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
@@ -1241,6 +1246,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1871-jump-game-vii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
 |  |
 | ------- |
