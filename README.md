@@ -299,6 +299,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
@@ -593,6 +594,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0172-factorial-trailing-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0390-elimination-game) |
@@ -740,6 +742,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
@@ -914,6 +917,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
