@@ -82,6 +82,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -559,6 +560,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0647-palindromic-substrings) |
@@ -757,6 +759,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -832,6 +835,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0400-nth-digit) |
@@ -886,6 +890,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
