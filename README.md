@@ -611,6 +611,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0172-factorial-trailing-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
@@ -1700,6 +1701,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
