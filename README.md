@@ -74,6 +74,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -899,6 +900,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0164-maximum-gap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -974,6 +976,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
@@ -1275,6 +1278,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -1625,6 +1629,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask DP
