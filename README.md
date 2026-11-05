@@ -1132,6 +1132,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0187-repeated-dna-sequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0338-counting-bits) |
