@@ -82,6 +82,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0260-single-number-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -567,6 +568,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0202-happy-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -850,6 +852,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0209-minimum-size-subarray-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1156,6 +1159,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
@@ -1746,6 +1750,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 ## Algorithm X
 |  |
 | ------- |
@@ -1850,4 +1855,5 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
