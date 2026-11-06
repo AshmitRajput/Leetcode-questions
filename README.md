@@ -97,6 +97,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0436-find-right-interval) |
@@ -326,6 +327,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
@@ -1310,6 +1312,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0220-contains-duplicate-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
