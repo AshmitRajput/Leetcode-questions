@@ -439,6 +439,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -635,6 +636,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0398-random-pick-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
@@ -1026,6 +1028,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0054-spiral-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0640-solve-the-equation) |
