@@ -80,6 +80,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
@@ -907,6 +908,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1728,6 +1730,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 ## Game Theory
 |  |
