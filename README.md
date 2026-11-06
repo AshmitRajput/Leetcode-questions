@@ -427,6 +427,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0205-isomorphic-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -774,6 +775,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0219-contains-duplicate-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
+| [0299-bulls-and-cows](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -993,6 +995,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
