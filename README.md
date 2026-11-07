@@ -99,6 +99,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0407-trapping-rain-water-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0436-find-right-interval) |
@@ -936,6 +937,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
