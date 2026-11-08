@@ -164,6 +164,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1091-shortest-path-in-binary-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1306-jump-game-iii) |
@@ -1024,6 +1025,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [2833-furthest-point-from-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1090,6 +1092,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1020-number-of-enclaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1514,6 +1517,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1625,6 +1629,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1091-shortest-path-in-binary-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1717,6 +1722,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
