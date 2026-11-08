@@ -96,6 +96,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0376-wiggle-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0384-shuffle-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
@@ -643,6 +644,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0343-integer-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0384-shuffle-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0398-random-pick-index) |
@@ -1361,6 +1363,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0384-shuffle-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0384-shuffle-an-array) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0676-implement-magic-dictionary) |
@@ -1839,6 +1842,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Randomized
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Longest Increasing Subsequence
