@@ -87,6 +87,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0303-range-sum-query-immutable](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -323,6 +324,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0343-integer-break) |
@@ -635,6 +637,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0343-integer-break) |
