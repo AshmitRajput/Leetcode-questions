@@ -107,6 +107,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0436-find-right-interval](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
@@ -536,6 +537,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0234-palindrome-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0388-longest-absolute-file-path](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -893,6 +895,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0400-nth-digit](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0611-valid-triangle-number) |
@@ -1393,6 +1396,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0084-largest-rectangle-in-histogram](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0901-online-stock-span) |
@@ -1700,6 +1704,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0456-132-pattern](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
