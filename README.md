@@ -115,6 +115,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0495-teemo-attacking](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0500-keyboard-row](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -459,6 +460,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0434-number-of-segments-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0583-delete-operation-for-two-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -817,6 +819,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
