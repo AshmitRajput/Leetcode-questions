@@ -893,6 +893,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0209-minimum-size-subarray-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -1926,6 +1927,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 ## Floyd's Cycle Finding Algorithm
 |  |
