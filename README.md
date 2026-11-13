@@ -327,6 +327,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0198-house-robber](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0312-burst-balloons) |
@@ -646,6 +647,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0223-rectangle-area](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0326-power-of-three) |
@@ -1634,6 +1636,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0207-course-schedule](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0322-coin-change) |
@@ -1898,10 +1901,12 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 ## Linear Algebra
 |  |
