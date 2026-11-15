@@ -1277,6 +1277,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0234-palindrome-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0641-design-circular-deque) |
@@ -1443,6 +1444,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0460-lfu-cache) |
 ## Tree
 |  |
@@ -1536,6 +1538,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
