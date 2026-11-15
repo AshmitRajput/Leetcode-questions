@@ -103,6 +103,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0413-arithmetic-slices](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1115,6 +1116,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
+| [0419-battleships-in-a-board](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0695-max-area-of-island) |
@@ -1538,6 +1540,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0463-island-perimeter) |
