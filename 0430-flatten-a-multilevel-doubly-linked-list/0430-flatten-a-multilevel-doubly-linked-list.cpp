@@ -26,7 +26,7 @@ public:
                 
                 if(nextNode != nullptr) {
                     childTail->next = nextNode;
-                    nextNode->prev = childTail;\
+                    nextNode->prev = childTail;
                 }
                 
                 curr->next = curr->child;
