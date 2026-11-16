@@ -509,6 +509,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1087,6 +1088,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2069-walking-robot-simulation-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2751-robot-collisions) |
