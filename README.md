@@ -661,6 +661,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0343-integer-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0382-linked-list-random-node](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0396-rotate-function) |
@@ -1281,6 +1282,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0234-palindrome-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0622-design-circular-queue) |
@@ -1886,11 +1888,13 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
