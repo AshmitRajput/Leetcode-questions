@@ -81,6 +81,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
@@ -908,6 +909,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0209-minimum-size-subarray-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
