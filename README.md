@@ -125,6 +125,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0553-optimal-division) |
+| [0554-brick-wall](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0598-range-addition-ii) |
@@ -846,6 +847,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0491-non-decreasing-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0500-keyboard-row) |
+| [0554-brick-wall](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
