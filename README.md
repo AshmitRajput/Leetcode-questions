@@ -1254,6 +1254,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0401-binary-watch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0645-set-mismatch) |
