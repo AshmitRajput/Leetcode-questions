@@ -112,6 +112,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0456-132-pattern](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
@@ -350,6 +351,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0413-arithmetic-slices](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -474,6 +476,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0434-number-of-segments-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0472-concatenated-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0472-concatenated-words) |
 | [0500-keyboard-row](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
@@ -793,6 +796,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0014-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0677-map-sum-pairs) |
@@ -990,6 +994,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0451-sort-characters-by-frequency](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0472-concatenated-words) |
 | [0506-relative-ranks](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0611-valid-triangle-number) |
@@ -1559,6 +1564,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0472-concatenated-words) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0547-number-of-provinces) |
