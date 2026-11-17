@@ -124,6 +124,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0598-range-addition-ii) |
@@ -352,6 +353,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0629-k-inverse-pairs-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
@@ -681,6 +683,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0553-optimal-division](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0553-optimal-division) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
