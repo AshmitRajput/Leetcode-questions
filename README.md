@@ -526,6 +526,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2573-find-the-string-with-lcp](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2833-furthest-point-from-origin) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3120-count-the-number-of-special-characters-i) |
