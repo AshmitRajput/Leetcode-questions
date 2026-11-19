@@ -500,6 +500,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0722-remove-comments](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0722-remove-comments) |
 | [0796-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0812-rotate-string) |
+| [0824-goat-latin](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
