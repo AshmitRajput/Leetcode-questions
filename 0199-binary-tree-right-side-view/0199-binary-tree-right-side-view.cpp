@@ -29,7 +29,6 @@ public:
             if(node->right!=NULL){
                 q.push({node->right,level+1});
             }
-            
             mpp[level]=node->val;
 
         }
