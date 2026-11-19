@@ -1045,6 +1045,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0264-ugly-number-ii) |
@@ -1185,6 +1186,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1286,6 +1288,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0002-add-two-numbers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0061-rotate-list) |
@@ -1749,6 +1752,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1991,4 +1995,8 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | ------- |
 | [0202-happy-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
