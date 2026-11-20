@@ -1377,6 +1377,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0679-24-game) |
+| [0797-all-paths-from-source-to-target](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
@@ -1601,6 +1602,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1712,6 +1714,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1834,6 +1837,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0684-redundant-connection](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -2003,4 +2007,8 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
