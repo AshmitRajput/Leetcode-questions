@@ -114,6 +114,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
@@ -358,6 +359,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0416-partition-equal-subset-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -1275,6 +1277,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0401-binary-watch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0461-hamming-distance) |
+| [0473-matchsticks-to-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
@@ -1378,6 +1381,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0301-remove-invalid-parentheses](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
@@ -1799,6 +1803,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 ## Bitmask DP
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Segment Tree
