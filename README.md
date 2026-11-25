@@ -161,6 +161,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0792-binary-search](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0792-binary-search) |
 | [0835-image-overlap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0861-score-after-flipping-matrix) |
 | [0874-walking-robot-simulation](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -788,6 +789,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0680-valid-palindrome-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1170,6 +1172,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0695-max-area-of-island](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0835-image-overlap) |
+| [0861-score-after-flipping-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1020-number-of-enclaves) |
@@ -1291,6 +1294,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [0491-non-decreasing-subsequences](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0645-set-mismatch) |
+| [0861-score-after-flipping-matrix](https://github.com/AshmitRajput/Leetcode-questions/tree/master/0861-score-after-flipping-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/AshmitRajput/Leetcode-questions/tree/master/1009-complement-of-base-10-integer) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
