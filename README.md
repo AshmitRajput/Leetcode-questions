@@ -739,6 +739,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1143,6 +1144,7 @@ Here are all the questions I attemp on leetcode and their solutions, in order to
 | [2553-separate-the-digits-in-an-array](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AshmitRajput/Leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3360-stone-removal-game](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AshmitRajput/Leetcode-questions/tree/master/3614-process-string-with-special-operations-ii) |
